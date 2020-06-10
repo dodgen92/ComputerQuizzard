@@ -11,5 +11,5 @@ Steps to run.
 4. Run "yarn start" in terminal for both front and back end folders.
 5. Create a unique login.
 
-
+NOTE- Commit history begins in the repo of similar naming belonging to this account.
 
